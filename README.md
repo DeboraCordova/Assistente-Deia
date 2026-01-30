@@ -32,7 +32,7 @@ Assistente-Deia/
 
 • A chave da API não é incluída no repositório por motivos de segurança.
 
-• O nome "DeIA" é uma junção do meu apelido Deh, com Inteligência Artificial. Ela é um protótipo ainda em desenvolvimento. Em breve será integrada ao meu projeto pessoal academico.
+• O nome "DeIA" é uma junção do meu apelido Deh, com Inteligência Artificial. Ela é um protótipo ainda em desenvolvimento. Em breve será integrada ao meu projeto pessoal acadêmico.
 
 Assistente Deia em Python usando Groq API e LLaMA 3.1, desenvolvido por Débora Córdova. 
 
